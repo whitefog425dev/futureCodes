@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitefog425dev&layout=donut&show_icons=true&theme=dracula)
 
 ## Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=whitefog425dev&rank=-B,-C&title=Followers,Commits&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=whitefog425dev&rank=-B,-C&title=-Followers&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
