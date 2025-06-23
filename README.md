@@ -9,3 +9,7 @@
 - 📱 **Bridging the Gap**: The potential of Web3 isn’t just about decentralization; it’s about making it accessible to everyone. I'm keen on developing intuitive mobile wallets with exceptional UX to drive mass blockchain adoption. Through account abstraction, Passkeys, and the transformative idea of Decentralized Identity, I'm poised to redefine digital finance and identity.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitefog425dev&layout=donut&show_icons=true&theme=dracula)
+
+---
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Allura&size=28&duration=2000&pause=300&color=38D4D6&center=true&vCenter=true&random=false&width=300&height=80&lines=Building+the+Right+Things;And;Building+Things+Right;White+Fog" alt="Typing SVG" /></a></p>
